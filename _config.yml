@@ -13,7 +13,7 @@ title                    : "Zhe Liao"
 title_separator          : "-"
 name                     : &name "Zhe Liao"
 description              : &description "personal description"
-url                      : "https://Philoso0.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://Philoso0.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Philoso0/Philoso0.github.io"
 
@@ -24,8 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhe Liao"
-  pronouns         : "he/him"  
-  bio              : "An undergradute specializing in AI at Xiamen University"
+  bio              : "An undergradute specializing in AI at Xiamen Univ"
   location         : "Xiamen, China"
   employer         : "Xiamen University"
   uri              : "Philoso0.github.io"
@@ -36,9 +35,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
