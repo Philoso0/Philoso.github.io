@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhe Liao / Github Site"
+title                    : "Zhe Liao"
 title_separator          : "-"
 name                     : &name "Zhe Liao"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhe Liao"
   pronouns         : "he/him"  
-  bio              : "Undergradute specializing in AI at Xiamen University"
+  bio              : "An undergradute specializing in AI at Xiamen University"
   location         : "Xiamen, China"
   employer         : "Xiamen University"
   uri              : "Philoso0.github.io"
