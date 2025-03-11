@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "Profile.png"
   name             : "Zhe Liao"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Xiamen, PRC"
   employer         : "Xiamen University"
